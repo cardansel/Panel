@@ -1,0 +1,6 @@
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Support\bin\Debug\Layer_Support.dll
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Support\bin\Debug\Layer_Support.pdb
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Support\obj\Debug\Layer_Support.csproj.AssemblyReference.cache
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Support\obj\Debug\Layer_Support.csproj.CoreCompileInputs.cache
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Support\obj\Debug\Layer_Support.dll
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Support\obj\Debug\Layer_Support.pdb

@@ -1,0 +1,13 @@
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Business\bin\Debug\Layer_Business.dll
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Business\bin\Debug\Layer_Business.pdb
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Business\bin\Debug\Layer_Data.dll
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Business\bin\Debug\Layer_Support.dll
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Business\bin\Debug\EntityFramework.dll
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Business\bin\Debug\Layer_Data.pdb
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Business\bin\Debug\Layer_Support.pdb
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Business\bin\Debug\EntityFramework.xml
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Business\obj\Debug\Layer_Business.csproj.AssemblyReference.cache
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Business\obj\Debug\Layer_Business.csproj.CoreCompileInputs.cache
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Business\obj\Debug\Layer_Business.csproj.CopyComplete
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Business\obj\Debug\Layer_Business.dll
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Business\obj\Debug\Layer_Business.pdb

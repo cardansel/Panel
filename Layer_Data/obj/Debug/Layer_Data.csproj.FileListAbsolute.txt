@@ -1,0 +1,15 @@
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\bin\Debug\Layer_Data.dll
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\bin\Debug\Layer_Data.pdb
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\bin\Debug\EntityFramework.dll
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\bin\Debug\Layer_Support.dll
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\bin\Debug\Layer_Support.pdb
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\bin\Debug\EntityFramework.xml
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\obj\Debug\Layer_Data.csproj.AssemblyReference.cache
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\obj\Debug\Layer_Data.Migrations.InitCreate.resources
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\obj\Debug\Layer_Data.csproj.GenerateResource.cache
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\obj\Debug\Layer_Data.csproj.CoreCompileInputs.cache
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\obj\Debug\Layer_Data.csproj.CopyComplete
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\obj\Debug\Layer_Data.dll
+C:\Users\daniel.selva\source\repos\PanelControl\Layer_Data\obj\Debug\Layer_Data.pdb
